@@ -88,3 +88,5 @@ class Ship(Sprite):
 
         self.app.add_bullet(bullet)
 
+
+
